@@ -1,0 +1,96 @@
+Aug 16, 2011 11:19:18 AM | Subject: null | Module: null
+
+Time = 1313508001187
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313508002000
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1313508009390
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313508023890
+Code = 110
+Event = Steam dump valve Loop 4 set to OPEN
+
+Time = 1313508026109
+Code = 111
+Event = Steam dump valve Loop 4 set to PRESSURE
+
+Time = 1313508026437
+Code = 112
+Event = Steam dump valve Loop 4 set to CLOSED
+
+Time = 1313508031984
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313508042375
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313508047015
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313508049718
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1313508052453
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313508054687
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313508059781
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1313508064187
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Time = 1313508067765
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Time = 1313508079609
+Code = 143
+Event = ChatBox interaction: RO: reactor maintenance
+
+Time = 1313508088609
+Code = 145
+Event = ChatBox response: RM: Reactor Maintenance here, what's the problem?
+
+Time = 1313508094296
+Code = 143
+Event = ChatBox interaction: RO: AOP-6
+
+Time = 1313508104296
+Code = 146
+Event = ChatBox response: RM: Got it, we're on our way. Some of your controls might be disabled in the mainwhile. Just keep an eye on the monitors.
+
+Time = 1313508224296
+Code = 147
+Event = ChatBox response: RM: I think we fixed it. You should see something soon.
+
+Time = 1313508247250
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313508247250
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 29
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Very Clear
+

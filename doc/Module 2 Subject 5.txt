@@ -1,0 +1,208 @@
+Aug 29, 2011 1:46:08 PM | Subject: null | Module: null
+
+Step -1
+Time = 1314640051656
+Code = 118
+Event = Rod AUTO Activated
+
+Step 0
+Time = 1314640054250
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 1
+Time = 1314640055406
+Code = 116
+Event = Rod UP clicked
+
+Step 2
+Time = 1314640073781
+Code = 89
+Event = Turned on SI train A
+
+Step 3
+Time = 1314640074687
+Code = 91
+Event = Turned on SI train B
+
+Step 4
+Time = 1314640085250
+Code = 117
+Event = Rod AUTO Deactivated
+
+Step 5
+Time = 1314640144781
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Step 6
+Time = 1314640149750
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Step 7
+Time = 1314640154421
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Step 8
+Time = 1314640158140
+Code = 15
+Event = Verified turbine steam pressure in Loop 1
+
+Step 9
+Time = 1314640161562
+Code = 10
+Event = Verified power output in Loop 1
+
+Step 10
+Time = 1314640195562
+Code = 175
+Event = Goal 1 (SG Temp) for T-2 has been achieved.
+
+Step 11
+Time = 1314640209187
+Code = 79
+Event = Turned on SI pump A
+
+Step 12
+Time = 1314640210218
+Code = 77
+Event = Turned on SI pump B
+
+Step 13
+Time = 1314640217703
+Code = 46
+Event = Verified reactor temperature in Reactor
+
+Step 14
+Time = 1314640222015
+Code = 47
+Event = Verified RCS temperature in Reactor
+
+Step 15
+Time = 1314640227921
+Code = 48
+Event = Verified RCS pressure in Reactor
+
+Step 16
+Time = 1314640231812
+Code = 49
+Event = Verified coolant level in Reactor
+
+Step 17
+Time = 1314640235312
+Code = 4
+Event = Verified A3
+
+Step 18
+Time = 1314640245859
+Code = 176
+Event = Goal 2 (RC Level) for T-2 has been achieved.
+
+Step 19
+Time = 1314640256671
+Code = 78
+Event = Turned off SI pump A
+
+Step 20
+Time = 1314640259718
+Code = 76
+Event = Turned off SI pump B
+
+Step 21
+Time = 1314640263578
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Step 22
+Time = 1314640288921
+Code = 68
+Event = Turned off secondary coolant pump Loop 2
+
+Step 23
+Time = 1314640294812
+Code = 22
+Event = Verified coolant temperature in Loop 2
+
+Step 24
+Time = 1314640299843
+Code = 24
+Event = Verified turbine steam pressure in Loop 2
+
+Step 25
+Time = 1314640306078
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Step 26
+Time = 1314640313578
+Code = 26
+Event = Verified SG coolant level in Loop 2
+
+Step 27
+Time = 1314640407703
+Code = 177
+Event = Goal 3 (Turbine Stea Level) for T-2 has been achieved.
+
+Step 28
+Time = 1314640423125
+Code = 69
+Event = Turned on secondary coolant pump Loop 2
+
+Step 29
+Time = 1314640438093
+Code = 107
+Event = Steam dump valve Loop 3 set to OPEN
+
+Step 30
+Time = 1314640444312
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Step 31
+Time = 1314640448359
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Step 32
+Time = 1314640451453
+Code = 33
+Event = Verified turbine steam pressure in Loop 3
+
+Step 33
+Time = 1314640453875
+Code = 28
+Event = Verified power output in Loop 3
+
+Step 34
+Time = 1314640477718
+Code = 178
+Event = Goal 4 (SG Pressure) for T-2 has been achieved.
+
+Step 35
+Time = 1314640480703
+Code = 108
+Event = Steam dump valve Loop 3 set to PRESSURE
+
+Step 36
+Time = 1314640481218
+Code = 109
+Event = Steam dump valve Loop 3 set to CLOSED
+
+Step 37
+Time = 1314640505859
+Code = 256
+Event = END OF SIMULATION
+
+Step 38
+Time = 1314640505859
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 34
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Clear
+

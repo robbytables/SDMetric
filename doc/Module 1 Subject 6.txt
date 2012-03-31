@@ -1,0 +1,493 @@
+Sep 12, 2011 2:36:53 PM | Subject: null | Module: null
+
+Step -1
+Time = 1315852636453
+Code = 118
+Event = Rod AUTO Activated
+
+Step 0
+Time = 1315852640859
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 1
+Time = 1315852657421
+Code = 0
+Event = Invalid mouse operation
+
+Step 2
+Time = 1315852674031
+Code = 0
+Event = Invalid mouse operation
+
+Step 3
+Time = 1315852675078
+Code = 0
+Event = Invalid mouse operation
+
+Step 4
+Time = 1315852677406
+Code = 0
+Event = Invalid mouse operation
+
+Step 5
+Time = 1315852708296
+Code = 0
+Event = Invalid mouse operation
+
+Step 6
+Time = 1315852709437
+Code = 0
+Event = Invalid mouse operation
+
+Step 7
+Time = 1315852713531
+Code = 0
+Event = Invalid mouse operation
+
+Step 8
+Time = 1315852714031
+Code = 0
+Event = Invalid mouse operation
+
+Step 9
+Time = 1315852714937
+Code = 0
+Event = Invalid mouse operation
+
+Step 10
+Time = 1315852727953
+Code = 0
+Event = Invalid mouse operation
+
+Step 11
+Time = 1315852735500
+Code = 0
+Event = Invalid mouse operation
+
+Step 12
+Time = 1315852736875
+Code = 0
+Event = Invalid mouse operation
+
+Step 13
+Time = 1315852737687
+Code = 0
+Event = Invalid mouse operation
+
+Step 14
+Time = 1315852738187
+Code = 0
+Event = Invalid mouse operation
+
+Step 15
+Time = 1315852741281
+Code = 0
+Event = Invalid mouse operation
+
+Step 16
+Time = 1315852745453
+Code = 0
+Event = Invalid mouse operation
+
+Step 17
+Time = 1315852751234
+Code = 0
+Event = Invalid mouse operation
+
+Step 18
+Time = 1315852754953
+Code = 0
+Event = Invalid mouse operation
+
+Step 19
+Time = 1315852757171
+Code = 0
+Event = Invalid mouse operation
+
+Step 20
+Time = 1315852757843
+Code = 0
+Event = Invalid mouse operation
+
+Step 21
+Time = 1315852758390
+Code = 0
+Event = Invalid mouse operation
+
+Step 22
+Time = 1315852759796
+Code = 0
+Event = Invalid mouse operation
+
+Step 23
+Time = 1315852760593
+Code = 0
+Event = Invalid mouse operation
+
+Step 24
+Time = 1315852765687
+Code = 0
+Event = Invalid mouse operation
+
+Step 25
+Time = 1315852770640
+Code = 0
+Event = Invalid mouse operation
+
+Step 26
+Time = 1315852773046
+Code = 0
+Event = Invalid mouse operation
+
+Step 27
+Time = 1315852775203
+Code = 0
+Event = Invalid mouse operation
+
+Step 28
+Time = 1315852777828
+Code = 0
+Event = Invalid mouse operation
+
+Step 29
+Time = 1315852783296
+Code = 0
+Event = Invalid mouse operation
+
+Step 30
+Time = 1315852784859
+Code = 0
+Event = Invalid mouse operation
+
+Step 31
+Time = 1315852785796
+Code = 0
+Event = Invalid mouse operation
+
+Step 32
+Time = 1315852787453
+Code = 0
+Event = Invalid mouse operation
+
+Step 33
+Time = 1315852788671
+Code = 0
+Event = Invalid mouse operation
+
+Step 34
+Time = 1315852820437
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 35
+Time = 1315852820453
+Code = 178
+Event = Help reference pulled up.
+
+Step 36
+Time = 1315852826812
+Code = 179
+Event = Help reference turned off.
+
+Step 37
+Time = 1315852828734
+Code = 70
+Event = Turned off reactor coolant pump Loop 3
+
+Step 38
+Time = 1315852829921
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Step 39
+Time = 1315852831265
+Code = 62
+Event = Turned off reactor coolant pump Loop 2
+
+Step 40
+Time = 1315852832437
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Step 41
+Time = 1315852838156
+Code = 0
+Event = Invalid mouse operation
+
+Step 42
+Time = 1315852839468
+Code = 0
+Event = Invalid mouse operation
+
+Step 43
+Time = 1315852841093
+Code = 0
+Event = Invalid mouse operation
+
+Step 44
+Time = 1315852842468
+Code = 0
+Event = Invalid mouse operation
+
+Step 45
+Time = 1315852852625
+Code = 0
+Event = Invalid mouse operation
+
+Step 46
+Time = 1315852855500
+Code = 0
+Event = Invalid mouse operation
+
+Step 47
+Time = 1315852861312
+Code = 0
+Event = Invalid mouse operation
+
+Step 48
+Time = 1315852863328
+Code = 0
+Event = Invalid mouse operation
+
+Step 49
+Time = 1315852870781
+Code = 0
+Event = Invalid mouse operation
+
+Step 50
+Time = 1315852874515
+Code = 0
+Event = Invalid mouse operation
+
+Step 51
+Time = 1315852875875
+Code = 0
+Event = Invalid mouse operation
+
+Step 52
+Time = 1315852876796
+Code = 0
+Event = Invalid mouse operation
+
+Step 53
+Time = 1315852881015
+Code = 0
+Event = Invalid mouse operation
+
+Step 54
+Time = 1315852881984
+Code = 0
+Event = Invalid mouse operation
+
+Step 55
+Time = 1315852883593
+Code = 0
+Event = Invalid mouse operation
+
+Step 56
+Time = 1315852885734
+Code = 0
+Event = Invalid mouse operation
+
+Step 57
+Time = 1315852895359
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Step 58
+Time = 1315852897156
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Step 59
+Time = 1315852900000
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Step 60
+Time = 1315852901250
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Step 61
+Time = 1315852917890
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 62
+Time = 1315852917890
+Code = 178
+Event = Help reference pulled up.
+
+Step 63
+Time = 1315852931000
+Code = 179
+Event = Help reference turned off.
+
+Step 64
+Time = 1315852933234
+Code = 56
+Event = Turned off secondary coolant pump Loop 1
+
+Step 65
+Time = 1315852935781
+Code = 0
+Event = Invalid mouse operation
+
+Step 66
+Time = 1315852936984
+Code = 68
+Event = Turned off secondary coolant pump Loop 2
+
+Step 67
+Time = 1315852938546
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Step 68
+Time = 1315852940187
+Code = 60
+Event = Turned off secondary coolant pump Loop 3
+
+Step 69
+Time = 1315852959343
+Code = 94
+Event = Turned off turbine controls Loop 1
+
+Step 70
+Time = 1315852962390
+Code = 92
+Event = Turned off turbine controls Loop 2
+
+Step 71
+Time = 1315852964593
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Step 72
+Time = 1315852966437
+Code = 96
+Event = Turned off turbine controls Loop 1
+
+Step 73
+Time = 1315852975921
+Code = 0
+Event = Invalid mouse operation
+
+Step 74
+Time = 1315852984468
+Code = 117
+Event = Rod AUTO Deactivated
+
+Step 75
+Time = 1315852985234
+Code = 118
+Event = Rod AUTO Activated
+
+Step 76
+Time = 1315852995515
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 77
+Time = 1315853046468
+Code = 0
+Event = Invalid mouse operation
+
+Step 78
+Time = 1315853047343
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Step 79
+Time = 1315853048437
+Code = 63
+Event = Turned on reactor coolant pump Loop 2
+
+Step 80
+Time = 1315853049343
+Code = 246
+Event = Turned on reactor coolant pump Loop 4
+
+Step 81
+Time = 1315853051062
+Code = 71
+Event = Turned on reactor coolant pump Loop 3
+
+Step 82
+Time = 1315853058218
+Code = 81
+Event = Opened steamline valve Loop 1
+
+Step 83
+Time = 1315853059640
+Code = 83
+Event = Opened steamline valve Loop 2
+
+Step 84
+Time = 1315853060890
+Code = 87
+Event = Opened steamline valve Loop 4
+
+Step 85
+Time = 1315853062093
+Code = 85
+Event = Opened steamline valve Loop 3
+
+Step 86
+Time = 1315853071312
+Code = 57
+Event = Turned on secondary coolant pump Loop 1
+
+Step 87
+Time = 1315853073218
+Code = 69
+Event = Turned on secondary coolant pump Loop 2
+
+Step 88
+Time = 1315853075437
+Code = 75
+Event = Turned on secondary coolant pump Loop 4
+
+Step 89
+Time = 1315853076906
+Code = 61
+Event = Turned on secondary coolant pump Loop 3
+
+Step 90
+Time = 1315853084250
+Code = 95
+Event = Turned on turbine controls Loop 1
+
+Step 91
+Time = 1315853092375
+Code = 93
+Event = Turned on turbine controls Loop 2
+
+Step 92
+Time = 1315853095468
+Code = 99
+Event = Turned on turbine controls Loop 4
+
+Step 93
+Time = 1315853098171
+Code = 97
+Event = Turned on turbine controls Loop 1
+
+Step 94
+Time = 1315853206000
+Code = 256
+Event = END OF SIMULATION
+
+Step 95
+Time = 1315853206000
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 15
+
+Difficulty Rating: Somewhat Difficult
+
+Procedure Rating: Moderate
+

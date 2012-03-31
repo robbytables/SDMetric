@@ -1,0 +1,132 @@
+Aug 12, 2011 2:39:27 PM | Subject: null | Module: null
+
+Time = 1313175198156
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313175207968
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1313175221937
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313175224906
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313175228218
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1313175231312
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313175246296
+Code = 110
+Event = Steam dump valve Loop 4 set to OPEN
+
+Time = 1313175250906
+Code = 111
+Event = Steam dump valve Loop 4 set to PRESSURE
+
+Time = 1313175251843
+Code = 112
+Event = Steam dump valve Loop 4 set to CLOSED
+
+Time = 1313175259890
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313175262734
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313175266906
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1313175270781
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313175300671
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313175308609
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313175315984
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1313175319406
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313175322671
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313175329140
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1313175338218
+Code = 0
+Event = Invalid mouse operation
+
+Time = 1313175339687
+Code = 0
+Event = Invalid mouse operation
+
+Time = 1313175341781
+Code = 0
+Event = Invalid mouse operation
+
+Time = 1313175343828
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Time = 1313175348765
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Time = 1313175441796
+Code = 143
+Event = ChatBox interaction: RO: Reactor Maintenance Department
+
+Time = 1313175450906
+Code = 145
+Event = ChatBox response: RM: Reactor Maintenance here, what's the problem?
+
+Time = 1313175456187
+Code = 143
+Event = ChatBox interaction: RO: AOP-6
+
+Time = 1313175466234
+Code = 146
+Event = ChatBox response: RM: Got it, we're on our way. Some of your controls might be disabled in the mainwhile. Just keep an eye on the monitors.
+
+Time = 1313175586265
+Code = 147
+Event = ChatBox response: RM: I think we fixed it. You should see something soon.
+
+Time = 1313175830812
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313175830828
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 31
+
+Difficulty Rating: Somewhat Difficult
+
+Procedure Rating: Clear
+

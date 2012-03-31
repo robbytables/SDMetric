@@ -1,0 +1,136 @@
+Aug 16, 2011 11:15:41 AM | Subject: null | Module: null
+
+Time = 1313507774625
+Code = 1
+Event = Verified Rod Indicator
+
+Time = 1313507776984
+Code = 50
+Event = Verified neutron flux in Reactor
+
+Time = 1313507784671
+Code = 222
+Event = Verified Turbine Controls Loop 1: ON == false
+
+Time = 1313507785718
+Code = 220
+Event = Verified Turbine Controls Loop 2: ON == false
+
+Time = 1313507786984
+Code = 224
+Event = Verified Turbine Controls Loop 3: ON == false
+
+Time = 1313507788203
+Code = 226
+Event = Verified Turbine Controls Loop 4: ON == false
+
+Time = 1313507796265
+Code = 4
+Event = Verified A3
+
+Time = 1313507801890
+Code = 215
+Event = Verified SI Train A: ON == true
+
+Time = 1313507802640
+Code = 217
+Event = Verified SI Train B: ON == true
+
+Time = 1313507803734
+Code = 205
+Event = Verified SI pump A: ON == true
+
+Time = 1313507804859
+Code = 203
+Event = Verified SI pump B: ON == true
+
+Time = 1313507814015
+Code = 52
+Event = Verified containment pressure in Reactor
+
+Time = 1313507825000
+Code = 12
+Event = Verified secondary flow rate in Loop 1
+
+Time = 1313507827109
+Code = 21
+Event = Verified secondary flow rate in Loop 2
+
+Time = 1313507828375
+Code = 30
+Event = Verified secondary flow rate in Loop 3
+
+Time = 1313507829390
+Code = 39
+Event = Verified secondary flow rate in Loop 4
+
+Time = 1313507845984
+Code = 47
+Event = Verified RCS temperature in Reactor
+
+Time = 1313507859531
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Time = 1313507861531
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Time = 1313507863140
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Time = 1313507864500
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1313507880484
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Time = 1313507881578
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Time = 1313507883703
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Time = 1313507884718
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313507893312
+Code = 14
+Event = Verified condensor radiation level in Loop 1
+
+Time = 1313507894421
+Code = 23
+Event = Verified condensor radiation level in Loop 2
+
+Time = 1313507895828
+Code = 32
+Event = Verified condensor radiation level in Loop 3
+
+Time = 1313507896968
+Code = 41
+Event = Verified condensor radiation level in Loop 4
+
+Time = 1313507900796
+Code = 51
+Event = Verified containment radiation in Reactor
+
+Time = 1313507912968
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313507912968
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 2
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Very Clear
+

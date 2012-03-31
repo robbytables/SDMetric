@@ -1,0 +1,593 @@
+Oct 24, 2011 1:46:10 PM | Subject: null | Module: null
+
+Step -1
+Time = 1319478394000
+Code = 118
+Event = Rod AUTO Activated
+
+Step 0
+Time = 1319478397343
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 1
+Time = 1319478667125
+Code = 0
+Event = Invalid mouse operation
+
+Step 2
+Time = 1319478668984
+Code = 0
+Event = Invalid mouse operation
+
+Step 3
+Time = 1319478723078
+Code = 114
+Event = Rod DOWN clicked
+
+Step 4
+Time = 1319478794968
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 5
+Time = 1319478794984
+Code = 178
+Event = Help reference pulled up.
+
+Step 6
+Time = 1319478815375
+Code = 179
+Event = Help reference turned off.
+
+Step 7
+Time = 1319478817125
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Step 8
+Time = 1319478819203
+Code = 62
+Event = Turned off reactor coolant pump Loop 2
+
+Step 9
+Time = 1319478820703
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Step 10
+Time = 1319478821875
+Code = 70
+Event = Turned off reactor coolant pump Loop 3
+
+Step 11
+Time = 1319478851140
+Code = 0
+Event = Invalid mouse operation
+
+Step 12
+Time = 1319478864656
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 13
+Time = 1319478864656
+Code = 178
+Event = Help reference pulled up.
+
+Step 14
+Time = 1319478876921
+Code = 179
+Event = Help reference turned off.
+
+Step 15
+Time = 1319478904875
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 16
+Time = 1319478904875
+Code = 178
+Event = Help reference pulled up.
+
+Step 17
+Time = 1319478943000
+Code = 179
+Event = Help reference turned off.
+
+Step 18
+Time = 1319478944218
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Step 19
+Time = 1319478945593
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Step 20
+Time = 1319478947218
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Step 21
+Time = 1319478948406
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Step 22
+Time = 1319478954593
+Code = 56
+Event = Turned off secondary coolant pump Loop 1
+
+Step 23
+Time = 1319478960265
+Code = 68
+Event = Turned off secondary coolant pump Loop 2
+
+Step 24
+Time = 1319478961718
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Step 25
+Time = 1319478962718
+Code = 60
+Event = Turned off secondary coolant pump Loop 3
+
+Step 26
+Time = 1319478979593
+Code = 96
+Event = Turned off turbine controls Loop 1
+
+Step 27
+Time = 1319478981703
+Code = 94
+Event = Turned off turbine controls Loop 1
+
+Step 28
+Time = 1319478983093
+Code = 92
+Event = Turned off turbine controls Loop 2
+
+Step 29
+Time = 1319478984453
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Step 30
+Time = 1319479047500
+Code = 117
+Event = Rod AUTO Deactivated
+
+Step 31
+Time = 1319479047968
+Code = 118
+Event = Rod AUTO Activated
+
+Step 32
+Time = 1319479048843
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 33
+Time = 1319479064312
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 34
+Time = 1319479064312
+Code = 178
+Event = Help reference pulled up.
+
+Step 35
+Time = 1319479088687
+Code = 179
+Event = Help reference turned off.
+
+Step 36
+Time = 1319479095625
+Code = 0
+Event = Invalid mouse operation
+
+Step 37
+Time = 1319479096296
+Code = 0
+Event = Invalid mouse operation
+
+Step 38
+Time = 1319479111796
+Code = 120
+Event = Rod AUTO speed set to 25
+
+Step 39
+Time = 1319479113234
+Code = 116
+Event = Rod UP clicked
+
+Step 40
+Time = 1319479116156
+Code = 115
+Event = Rod UP clicked
+
+Step 41
+Time = 1319479116406
+Code = 116
+Event = Rod UP clicked
+
+Step 42
+Time = 1319479116875
+Code = 115
+Event = Rod UP clicked
+
+Step 43
+Time = 1319479118890
+Code = 116
+Event = Rod UP clicked
+
+Step 44
+Time = 1319479120312
+Code = 115
+Event = Rod UP clicked
+
+Step 45
+Time = 1319479122250
+Code = 116
+Event = Rod UP clicked
+
+Step 46
+Time = 1319479122515
+Code = 115
+Event = Rod UP clicked
+
+Step 47
+Time = 1319479122750
+Code = 116
+Event = Rod UP clicked
+
+Step 48
+Time = 1319479123000
+Code = 115
+Event = Rod UP clicked
+
+Step 49
+Time = 1319479123234
+Code = 116
+Event = Rod UP clicked
+
+Step 50
+Time = 1319479123484
+Code = 115
+Event = Rod UP clicked
+
+Step 51
+Time = 1319479123750
+Code = 116
+Event = Rod UP clicked
+
+Step 52
+Time = 1319479124000
+Code = 115
+Event = Rod UP clicked
+
+Step 53
+Time = 1319479124250
+Code = 116
+Event = Rod UP clicked
+
+Step 54
+Time = 1319479124562
+Code = 115
+Event = Rod UP clicked
+
+Step 55
+Time = 1319479124828
+Code = 116
+Event = Rod UP clicked
+
+Step 56
+Time = 1319479125343
+Code = 115
+Event = Rod UP clicked
+
+Step 57
+Time = 1319479126703
+Code = 116
+Event = Rod UP clicked
+
+Step 58
+Time = 1319479130828
+Code = 115
+Event = Rod UP clicked
+
+Step 59
+Time = 1319479132562
+Code = 116
+Event = Rod UP clicked
+
+Step 60
+Time = 1319479133687
+Code = 115
+Event = Rod UP clicked
+
+Step 61
+Time = 1319479133890
+Code = 116
+Event = Rod UP clicked
+
+Step 62
+Time = 1319479134093
+Code = 115
+Event = Rod UP clicked
+
+Step 63
+Time = 1319479134265
+Code = 116
+Event = Rod UP clicked
+
+Step 64
+Time = 1319479134453
+Code = 115
+Event = Rod UP clicked
+
+Step 65
+Time = 1319479134625
+Code = 116
+Event = Rod UP clicked
+
+Step 66
+Time = 1319479134796
+Code = 115
+Event = Rod UP clicked
+
+Step 67
+Time = 1319479134968
+Code = 116
+Event = Rod UP clicked
+
+Step 68
+Time = 1319479135171
+Code = 115
+Event = Rod UP clicked
+
+Step 69
+Time = 1319479135343
+Code = 116
+Event = Rod UP clicked
+
+Step 70
+Time = 1319479135546
+Code = 115
+Event = Rod UP clicked
+
+Step 71
+Time = 1319479135750
+Code = 116
+Event = Rod UP clicked
+
+Step 72
+Time = 1319479135953
+Code = 115
+Event = Rod UP clicked
+
+Step 73
+Time = 1319479136171
+Code = 116
+Event = Rod UP clicked
+
+Step 74
+Time = 1319479136359
+Code = 115
+Event = Rod UP clicked
+
+Step 75
+Time = 1319479136562
+Code = 116
+Event = Rod UP clicked
+
+Step 76
+Time = 1319479136765
+Code = 115
+Event = Rod UP clicked
+
+Step 77
+Time = 1319479136984
+Code = 116
+Event = Rod UP clicked
+
+Step 78
+Time = 1319479137203
+Code = 115
+Event = Rod UP clicked
+
+Step 79
+Time = 1319479137421
+Code = 116
+Event = Rod UP clicked
+
+Step 80
+Time = 1319479137625
+Code = 115
+Event = Rod UP clicked
+
+Step 81
+Time = 1319479137828
+Code = 116
+Event = Rod UP clicked
+
+Step 82
+Time = 1319479138046
+Code = 115
+Event = Rod UP clicked
+
+Step 83
+Time = 1319479138250
+Code = 116
+Event = Rod UP clicked
+
+Step 84
+Time = 1319479138484
+Code = 115
+Event = Rod UP clicked
+
+Step 85
+Time = 1319479139140
+Code = 116
+Event = Rod UP clicked
+
+Step 86
+Time = 1319479139359
+Code = 115
+Event = Rod UP clicked
+
+Step 87
+Time = 1319479139593
+Code = 116
+Event = Rod UP clicked
+
+Step 88
+Time = 1319479139812
+Code = 115
+Event = Rod UP clicked
+
+Step 89
+Time = 1319479140031
+Code = 116
+Event = Rod UP clicked
+
+Step 90
+Time = 1319479140234
+Code = 115
+Event = Rod UP clicked
+
+Step 91
+Time = 1319479140437
+Code = 116
+Event = Rod UP clicked
+
+Step 92
+Time = 1319479140640
+Code = 115
+Event = Rod UP clicked
+
+Step 93
+Time = 1319479140875
+Code = 116
+Event = Rod UP clicked
+
+Step 94
+Time = 1319479141593
+Code = 115
+Event = Rod UP clicked
+
+Step 95
+Time = 1319479158656
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 96
+Time = 1319479158656
+Code = 178
+Event = Help reference pulled up.
+
+Step 97
+Time = 1319479180203
+Code = 179
+Event = Help reference turned off.
+
+Step 98
+Time = 1319479184328
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Step 99
+Time = 1319479186281
+Code = 71
+Event = Turned on reactor coolant pump Loop 3
+
+Step 100
+Time = 1319479188718
+Code = 246
+Event = Turned on reactor coolant pump Loop 4
+
+Step 101
+Time = 1319479189468
+Code = 63
+Event = Turned on reactor coolant pump Loop 2
+
+Step 102
+Time = 1319479198031
+Code = 81
+Event = Opened steamline valve Loop 1
+
+Step 103
+Time = 1319479199312
+Code = 83
+Event = Opened steamline valve Loop 2
+
+Step 104
+Time = 1319479201031
+Code = 87
+Event = Opened steamline valve Loop 4
+
+Step 105
+Time = 1319479202140
+Code = 85
+Event = Opened steamline valve Loop 3
+
+Step 106
+Time = 1319479220453
+Code = 61
+Event = Turned on secondary coolant pump Loop 3
+
+Step 107
+Time = 1319479221718
+Code = 75
+Event = Turned on secondary coolant pump Loop 4
+
+Step 108
+Time = 1319479223125
+Code = 69
+Event = Turned on secondary coolant pump Loop 2
+
+Step 109
+Time = 1319479224187
+Code = 57
+Event = Turned on secondary coolant pump Loop 1
+
+Step 110
+Time = 1319479228281
+Code = 95
+Event = Turned on turbine controls Loop 1
+
+Step 111
+Time = 1319479231046
+Code = 97
+Event = Turned on turbine controls Loop 1
+
+Step 112
+Time = 1319479232609
+Code = 99
+Event = Turned on turbine controls Loop 4
+
+Step 113
+Time = 1319479233531
+Code = 93
+Event = Turned on turbine controls Loop 2
+
+Step 114
+Time = 1319479253828
+Code = 256
+Event = END OF SIMULATION
+
+Step 115
+Time = 1319479253828
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 14
+
+Difficulty Rating: Somewhat Difficult
+
+Procedure Rating: Moderate
+

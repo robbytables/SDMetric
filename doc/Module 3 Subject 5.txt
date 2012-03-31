@@ -1,0 +1,173 @@
+Aug 29, 2011 2:03:44 PM | Subject: null | Module: null
+
+Step -1
+Time = 1314641141953
+Code = 257
+Event = SIMULATION PAUSED
+
+Step 0
+Time = 1314641382421
+Code = 1
+Event = Verified Rod Indicator
+
+Step 1
+Time = 1314641388156
+Code = 50
+Event = Verified neutron flux in Reactor
+
+Step 2
+Time = 1314641393937
+Code = 222
+Event = Verified Turbine Controls Loop 1: ON == false
+
+Step 3
+Time = 1314641395125
+Code = 224
+Event = Verified Turbine Controls Loop 3: ON == false
+
+Step 4
+Time = 1314641396296
+Code = 226
+Event = Verified Turbine Controls Loop 4: ON == false
+
+Step 5
+Time = 1314641397343
+Code = 220
+Event = Verified Turbine Controls Loop 2: ON == false
+
+Step 6
+Time = 1314641408843
+Code = 4
+Event = Verified A3
+
+Step 7
+Time = 1314641416250
+Code = 215
+Event = Verified SI Train A: ON == true
+
+Step 8
+Time = 1314641416921
+Code = 217
+Event = Verified SI Train B: ON == true
+
+Step 9
+Time = 1314641422718
+Code = 205
+Event = Verified SI pump A: ON == true
+
+Step 10
+Time = 1314641423593
+Code = 203
+Event = Verified SI pump B: ON == true
+
+Step 11
+Time = 1314641433312
+Code = 52
+Event = Verified containment pressure in Reactor
+
+Step 12
+Time = 1314641453453
+Code = 12
+Event = Verified secondary flow rate in Loop 1
+
+Step 13
+Time = 1314641455171
+Code = 30
+Event = Verified secondary flow rate in Loop 3
+
+Step 14
+Time = 1314641456390
+Code = 21
+Event = Verified secondary flow rate in Loop 2
+
+Step 15
+Time = 1314641457500
+Code = 39
+Event = Verified secondary flow rate in Loop 4
+
+Step 16
+Time = 1314641553437
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Step 17
+Time = 1314641554687
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Step 18
+Time = 1314641556296
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Step 19
+Time = 1314641557281
+Code = 0
+Event = Invalid mouse operation
+
+Step 20
+Time = 1314641557812
+Code = 0
+Event = Invalid mouse operation
+
+Step 21
+Time = 1314641558296
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Step 22
+Time = 1314641609234
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Step 23
+Time = 1314641610281
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Step 24
+Time = 1314641611406
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 25
+Time = 1314641612375
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Step 26
+Time = 1314641623437
+Code = 41
+Event = Verified condensor radiation level in Loop 4
+
+Step 27
+Time = 1314641626078
+Code = 23
+Event = Verified condensor radiation level in Loop 2
+
+Step 28
+Time = 1314641627734
+Code = 14
+Event = Verified condensor radiation level in Loop 1
+
+Step 29
+Time = 1314641628671
+Code = 32
+Event = Verified condensor radiation level in Loop 3
+
+Step 30
+Time = 1314641677531
+Code = 256
+Event = END OF SIMULATION
+
+Step 31
+Time = 1314641677531
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 0
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Confusing
+

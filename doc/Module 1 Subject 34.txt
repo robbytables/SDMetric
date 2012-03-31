@@ -1,0 +1,403 @@
+Oct 13, 2011 2:47:38 PM | Subject: null | Module: null
+
+Step -1
+Time = 1318531683668
+Code = 118
+Event = Rod AUTO Activated
+
+Step 0
+Time = 1318531685617
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Step 1
+Time = 1318531689094
+Code = 114
+Event = Rod DOWN clicked
+
+Step 2
+Time = 1318531690901
+Code = 1
+Event = Verified Rod Indicator
+
+Step 3
+Time = 1318531697233
+Code = 46
+Event = Verified reactor temperature in Reactor
+
+Step 4
+Time = 1318531700587
+Code = 48
+Event = Verified RCS pressure in Reactor
+
+Step 5
+Time = 1318531703953
+Code = 47
+Event = Verified RCS temperature in Reactor
+
+Step 6
+Time = 1318531708314
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Step 7
+Time = 1318531710830
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Step 8
+Time = 1318531711933
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 9
+Time = 1318531712985
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Step 10
+Time = 1318531717987
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Step 11
+Time = 1318531719293
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Step 12
+Time = 1318531720433
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Step 13
+Time = 1318531721931
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Step 14
+Time = 1318531727264
+Code = 17
+Event = Verified SG coolant level in Loop 1
+
+Step 15
+Time = 1318531729141
+Code = 26
+Event = Verified SG coolant level in Loop 2
+
+Step 16
+Time = 1318531730310
+Code = 44
+Event = Verified SG coolant level in Loop 4
+
+Step 17
+Time = 1318531731371
+Code = 35
+Event = Verified SG coolant level in Loop 3
+
+Step 18
+Time = 1318531733913
+Code = 10
+Event = Verified power output in Loop 1
+
+Step 19
+Time = 1318531734944
+Code = 28
+Event = Verified power output in Loop 3
+
+Step 20
+Time = 1318531736137
+Code = 37
+Event = Verified power output in Loop 4
+
+Step 21
+Time = 1318531737191
+Code = 19
+Event = Verified power output in Loop 2
+
+Step 22
+Time = 1318531761818
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 23
+Time = 1318531761834
+Code = 178
+Event = Help reference pulled up.
+
+Step 24
+Time = 1318531762776
+Code = 179
+Event = Help reference turned off.
+
+Step 25
+Time = 1318531764864
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Step 26
+Time = 1318531765886
+Code = 70
+Event = Turned off reactor coolant pump Loop 3
+
+Step 27
+Time = 1318531767079
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Step 28
+Time = 1318531768132
+Code = 62
+Event = Turned off reactor coolant pump Loop 2
+
+Step 29
+Time = 1318531783254
+Code = 10
+Event = Verified power output in Loop 1
+
+Step 30
+Time = 1318531784722
+Code = 19
+Event = Verified power output in Loop 2
+
+Step 31
+Time = 1318531785813
+Code = 37
+Event = Verified power output in Loop 4
+
+Step 32
+Time = 1318531787440
+Code = 28
+Event = Verified power output in Loop 3
+
+Step 33
+Time = 1318531795222
+Code = 15
+Event = Verified turbine steam pressure in Loop 1
+
+Step 34
+Time = 1318531796353
+Code = 33
+Event = Verified turbine steam pressure in Loop 3
+
+Step 35
+Time = 1318531797520
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Step 36
+Time = 1318531798723
+Code = 24
+Event = Verified turbine steam pressure in Loop 2
+
+Step 37
+Time = 1318531812662
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Step 38
+Time = 1318531813583
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Step 39
+Time = 1318531814457
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Step 40
+Time = 1318531815656
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Step 41
+Time = 1318531820740
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Step 42
+Time = 1318531823198
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 43
+Time = 1318531824338
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Step 44
+Time = 1318531825368
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Step 45
+Time = 1318531837419
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Step 46
+Time = 1318531838787
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Step 47
+Time = 1318531840092
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Step 48
+Time = 1318531841320
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Step 49
+Time = 1318531846601
+Code = 60
+Event = Turned off secondary coolant pump Loop 3
+
+Step 50
+Time = 1318531847933
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Step 51
+Time = 1318531853599
+Code = 96
+Event = Turned off turbine controls Loop 1
+
+Step 52
+Time = 1318531854965
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Step 53
+Time = 1318531856472
+Code = 92
+Event = Turned off turbine controls Loop 2
+
+Step 54
+Time = 1318531858089
+Code = 94
+Event = Turned off turbine controls Loop 1
+
+Step 55
+Time = 1318531860807
+Code = 8
+Event = Verified B3
+
+Step 56
+Time = 1318531868506
+Code = 242
+Event = Verified Rod Auto ON
+
+Step 57
+Time = 1318531869612
+Code = 239
+Event = Verified that Rod Auto speed set to 50
+
+Step 58
+Time = 1318531872650
+Code = 116
+Event = Rod UP clicked
+
+Step 59
+Time = 1318531874962
+Code = 1
+Event = Verified Rod Indicator
+
+Step 60
+Time = 1318531883495
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Step 61
+Time = 1318531884357
+Code = 63
+Event = Turned on reactor coolant pump Loop 2
+
+Step 62
+Time = 1318531885206
+Code = 246
+Event = Turned on reactor coolant pump Loop 4
+
+Step 63
+Time = 1318531886149
+Code = 0
+Event = Invalid mouse operation
+
+Step 64
+Time = 1318531886918
+Code = 71
+Event = Turned on reactor coolant pump Loop 3
+
+Step 65
+Time = 1318531896275
+Code = 85
+Event = Opened steamline valve Loop 3
+
+Step 66
+Time = 1318531897766
+Code = 87
+Event = Opened steamline valve Loop 4
+
+Step 67
+Time = 1318531899179
+Code = 83
+Event = Opened steamline valve Loop 2
+
+Step 68
+Time = 1318531900531
+Code = 81
+Event = Opened steamline valve Loop 1
+
+Step 69
+Time = 1318531917012
+Code = 61
+Event = Turned on secondary coolant pump Loop 3
+
+Step 70
+Time = 1318531918006
+Code = 0
+Event = Invalid mouse operation
+
+Step 71
+Time = 1318531918810
+Code = 75
+Event = Turned on secondary coolant pump Loop 4
+
+Step 72
+Time = 1318531925182
+Code = 97
+Event = Turned on turbine controls Loop 1
+
+Step 73
+Time = 1318531926881
+Code = 99
+Event = Turned on turbine controls Loop 4
+
+Step 74
+Time = 1318531929408
+Code = 93
+Event = Turned on turbine controls Loop 2
+
+Step 75
+Time = 1318531931103
+Code = 95
+Event = Turned on turbine controls Loop 1
+
+Step 76
+Time = 1318532045575
+Code = 256
+Event = END OF SIMULATION
+
+Step 77
+Time = 1318532045575
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 23
+
+Difficulty Rating: Somewhat Difficult
+
+Procedure Rating: Clear
+

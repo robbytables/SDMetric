@@ -1,0 +1,204 @@
+Aug 12, 2011 2:18:08 PM | Subject: null | Module: null
+
+Time = 1313173113421
+Code = 114
+Event = Rod DOWN clicked
+
+Time = 1313173121468
+Code = 3
+Event = Verified A2
+
+Time = 1313173122718
+Code = 1
+Event = Verified Rod Indicator
+
+Time = 1313173126000
+Code = 50
+Event = Verified neutron flux in Reactor
+
+Time = 1313173135875
+Code = 222
+Event = Verified Turbine Controls Loop 1: ON == false
+
+Time = 1313173137031
+Code = 220
+Event = Verified Turbine Controls Loop 2: ON == false
+
+Time = 1313173138468
+Code = 226
+Event = Verified Turbine Controls Loop 4: ON == false
+
+Time = 1313173139921
+Code = 224
+Event = Verified Turbine Controls Loop 3: ON == false
+
+Time = 1313173157890
+Code = 215
+Event = Verified SI Train A: ON == true
+
+Time = 1313173159546
+Code = 88
+Event = Turned off SI train A
+
+Time = 1313173160921
+Code = 90
+Event = Turned off SI train B
+
+Time = 1313173192921
+Code = 52
+Event = Verified containment pressure in Reactor
+
+Time = 1313173289109
+Code = 207
+Event = Verified Steamline Valve Loop 1: ON == true
+
+Time = 1313173292375
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Time = 1313173294437
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Time = 1313173296812
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Time = 1313173298843
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1313173398703
+Code = 12
+Event = Verified secondary flow rate in Loop 1
+
+Time = 1313173402703
+Code = 30
+Event = Verified secondary flow rate in Loop 3
+
+Time = 1313173404562
+Code = 21
+Event = Verified secondary flow rate in Loop 2
+
+Time = 1313173407437
+Code = 39
+Event = Verified secondary flow rate in Loop 4
+
+Time = 1313173456109
+Code = 143
+Event = ChatBox interaction: RO: help
+
+Time = 1313173456390
+Code = 178
+Event = Help reference pulled up.
+
+Time = 1313173462343
+Code = 179
+Event = Help reference turned off.
+
+Time = 1313173466843
+Code = 191
+Event = Verified reactor coolant pump Loop 1: ON == true
+
+Time = 1313173467968
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Time = 1313173471015
+Code = 70
+Event = Turned off reactor coolant pump Loop 3
+
+Time = 1313173473046
+Code = 62
+Event = Turned off reactor coolant pump Loop 2
+
+Time = 1313173474296
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313173564796
+Code = 14
+Event = Verified condensor radiation level in Loop 1
+
+Time = 1313173566437
+Code = 32
+Event = Verified condensor radiation level in Loop 3
+
+Time = 1313173567640
+Code = 41
+Event = Verified condensor radiation level in Loop 4
+
+Time = 1313173569609
+Code = 23
+Event = Verified condensor radiation level in Loop 2
+
+Time = 1313173592484
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Time = 1313173594718
+Code = 63
+Event = Turned on reactor coolant pump Loop 2
+
+Time = 1313173596203
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1313173597234
+Code = 0
+Event = Invalid mouse operation
+
+Time = 1313173598156
+Code = 71
+Event = Turned on reactor coolant pump Loop 3
+
+Time = 1313173636062
+Code = 81
+Event = Opened steamline valve Loop 1
+
+Time = 1313173644437
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Time = 1313173710109
+Code = 0
+Event = Invalid mouse operation
+
+Time = 1313173773312
+Code = 52
+Event = Verified containment pressure in Reactor
+
+Time = 1313173774640
+Code = 53
+Event = Verified containment temperature in Reactor
+
+Time = 1313173877281
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Time = 1313173878453
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Time = 1313173879843
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313173880734
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Time = 1313173918890
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313173918906
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 0
+
+Difficulty Rating: Very Difficult
+
+Procedure Rating: Very Confusing
+

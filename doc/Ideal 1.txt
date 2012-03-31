@@ -1,0 +1,320 @@
+Aug 16, 2011 11:02:41 AM | Subject: null | Module: null
+
+Time = 1313506992125
+Code = 118
+Event = Rod AUTO Activated
+
+Time = 1313506993640
+Code = 119
+Event = Rod AUTO speed set to 50
+
+Time = 1313506996078
+Code = 114
+Event = Rod DOWN clicked
+
+Time = 1313506999578
+Code = 1
+Event = Verified Rod Indicator
+
+Time = 1313507014703
+Code = 46
+Event = Verified reactor temperature in Reactor
+
+Time = 1313507018359
+Code = 48
+Event = Verified RCS pressure in Reactor
+
+Time = 1313507019953
+Code = 47
+Event = Verified RCS temperature in Reactor
+
+Time = 1313507025265
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Time = 1313507026468
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Time = 1313507027562
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Time = 1313507028625
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313507033843
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Time = 1313507034828
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Time = 1313507035953
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Time = 1313507036859
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313507041109
+Code = 17
+Event = Verified SG coolant level in Loop 1
+
+Time = 1313507042046
+Code = 26
+Event = Verified SG coolant level in Loop 2
+
+Time = 1313507043359
+Code = 35
+Event = Verified SG coolant level in Loop 3
+
+Time = 1313507044187
+Code = 44
+Event = Verified SG coolant level in Loop 4
+
+Time = 1313507051000
+Code = 10
+Event = Verified power output in Loop 1
+
+Time = 1313507051921
+Code = 19
+Event = Verified power output in Loop 2
+
+Time = 1313507053000
+Code = 28
+Event = Verified power output in Loop 3
+
+Time = 1313507054046
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313507060546
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Time = 1313507061562
+Code = 62
+Event = Turned off reactor coolant pump Loop 2
+
+Time = 1313507062906
+Code = 70
+Event = Turned off reactor coolant pump Loop 3
+
+Time = 1313507064015
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1313507069562
+Code = 10
+Event = Verified power output in Loop 1
+
+Time = 1313507070656
+Code = 19
+Event = Verified power output in Loop 2
+
+Time = 1313507072015
+Code = 28
+Event = Verified power output in Loop 3
+
+Time = 1313507072859
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1313507078078
+Code = 15
+Event = Verified turbine steam pressure in Loop 1
+
+Time = 1313507082875
+Code = 24
+Event = Verified turbine steam pressure in Loop 2
+
+Time = 1313507084421
+Code = 33
+Event = Verified turbine steam pressure in Loop 3
+
+Time = 1313507085515
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1313507089953
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Time = 1313507091031
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Time = 1313507092046
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Time = 1313507092984
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1313507107953
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Time = 1313507109968
+Code = 25
+Event = Verified SG pressure in Loop 2
+
+Time = 1313507110953
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Time = 1313507111906
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1313507123093
+Code = 80
+Event = Closed steamline valve Loop 1
+
+Time = 1313507124359
+Code = 82
+Event = Closed steamline valve Loop 2
+
+Time = 1313507126078
+Code = 84
+Event = Closed steamline valve Loop 3
+
+Time = 1313507127890
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1313507135687
+Code = 56
+Event = Turned off secondary coolant pump Loop 1
+
+Time = 1313507137093
+Code = 68
+Event = Turned off secondary coolant pump Loop 2
+
+Time = 1313507138828
+Code = 60
+Event = Turned off secondary coolant pump Loop 3
+
+Time = 1313507140109
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Time = 1313507146234
+Code = 94
+Event = Turned off turbine controls Loop 1
+
+Time = 1313507147046
+Code = 92
+Event = Turned off turbine controls Loop 2
+
+Time = 1313507148921
+Code = 96
+Event = Turned off turbine controls Loop 1
+
+Time = 1313507149968
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Time = 1313507151984
+Code = 8
+Event = Verified B3
+
+Time = 1313507158218
+Code = 242
+Event = Verified Rod Auto ON
+
+Time = 1313507160593
+Code = 239
+Event = Verified that Rod Auto speed set to 50
+
+Time = 1313507162796
+Code = 116
+Event = Rod UP clicked
+
+Time = 1313507166703
+Code = 1
+Event = Verified Rod Indicator
+
+Time = 1313507181687
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Time = 1313507182953
+Code = 63
+Event = Turned on reactor coolant pump Loop 2
+
+Time = 1313507184156
+Code = 71
+Event = Turned on reactor coolant pump Loop 3
+
+Time = 1313507185156
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1313507189406
+Code = 81
+Event = Opened steamline valve Loop 1
+
+Time = 1313507190718
+Code = 83
+Event = Opened steamline valve Loop 2
+
+Time = 1313507191953
+Code = 85
+Event = Opened steamline valve Loop 3
+
+Time = 1313507193312
+Code = 87
+Event = Opened steamline valve Loop 4
+
+Time = 1313507196531
+Code = 57
+Event = Turned on secondary coolant pump Loop 1
+
+Time = 1313507197625
+Code = 69
+Event = Turned on secondary coolant pump Loop 2
+
+Time = 1313507199578
+Code = 61
+Event = Turned on secondary coolant pump Loop 3
+
+Time = 1313507200718
+Code = 75
+Event = Turned on secondary coolant pump Loop 4
+
+Time = 1313507203437
+Code = 95
+Event = Turned on turbine controls Loop 1
+
+Time = 1313507204328
+Code = 93
+Event = Turned on turbine controls Loop 2
+
+Time = 1313507205468
+Code = 97
+Event = Turned on turbine controls Loop 1
+
+Time = 1313507206437
+Code = 99
+Event = Turned on turbine controls Loop 4
+
+Time = 1313507229187
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313507229187
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 21
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Very Clear
+

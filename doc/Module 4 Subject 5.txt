@@ -1,0 +1,188 @@
+Aug 29, 2011 2:22:11 PM | Subject: null | Module: null
+
+Step -1
+Time = 1314642342875
+Code = 258
+Event = ChatBox response: RO: help
+
+Step 0
+Time = 1314642342890
+Code = 178
+Event = Help reference pulled up.
+
+Step 1
+Time = 1314642349906
+Code = 179
+Event = Help reference turned off.
+
+Step 2
+Time = 1314642467906
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Step 3
+Time = 1314642474796
+Code = 246
+Event = Turned on reactor coolant pump Loop 4
+
+Step 4
+Time = 1314642501796
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 5
+Time = 1314642502468
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Step 6
+Time = 1314642508625
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Step 7
+Time = 1314642511437
+Code = 37
+Event = Verified power output in Loop 4
+
+Step 8
+Time = 1314642521437
+Code = 110
+Event = Steam dump valve Loop 4 set to OPEN
+
+Step 9
+Time = 1314642525343
+Code = 0
+Event = Invalid mouse operation
+
+Step 10
+Time = 1314642526656
+Code = 111
+Event = Steam dump valve Loop 4 set to PRESSURE
+
+Step 11
+Time = 1314642527140
+Code = 112
+Event = Steam dump valve Loop 4 set to CLOSED
+
+Step 12
+Time = 1314642539265
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 13
+Time = 1314642540781
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Step 14
+Time = 1314642542687
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Step 15
+Time = 1314642545140
+Code = 37
+Event = Verified power output in Loop 4
+
+Step 16
+Time = 1314642557562
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Step 17
+Time = 1314642560828
+Code = 37
+Event = Verified power output in Loop 4
+
+Step 18
+Time = 1314642564687
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Step 19
+Time = 1314642567421
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Step 20
+Time = 1314642569343
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Step 21
+Time = 1314642577078
+Code = 0
+Event = Invalid mouse operation
+
+Step 22
+Time = 1314642577406
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Step 23
+Time = 1314642591437
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Step 24
+Time = 1314642595171
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Step 25
+Time = 1314642643234
+Code = 246
+Event = ChatBox response: RO: Reactor Maintenance Department
+
+Step 26
+Time = 1314642646250
+Code = 260
+Event = ChatBox response: SRO: Department called.
+
+Step 27
+Time = 1314642652250
+Code = 145
+Event = ChatBox response: RM: Reactor Maintenance here, what's the problem?
+
+Step 28
+Time = 1314642658890
+Code = 247
+Event = ChatBox response: RO: AOP-6
+
+Step 29
+Time = 1314642668906
+Code = 146
+Event = ChatBox response: RM: Got it, we're on our way. Some of your controls might be disabled in the meanwhile. Just keep an eye on the monitors.
+
+Step 30
+Time = 1314642788906
+Code = 147
+Event = ChatBox response: RM: I think we fixed it. You should see something soon.
+
+Step 31
+Time = 1314642867312
+Code = 244
+Event = ChatBox response: RM: Alright, that should do it. Go ahead and restart that loop.
+
+Step 36
+Time = 1314642926187
+Code = 0
+Event = Invalid mouse operation
+
+Step 37
+Time = 1314642930078
+Code = 256
+Event = END OF SIMULATION
+
+Step 38
+Time = 1314642930078
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 32
+
+Difficulty Rating: Somewhat Difficult
+
+Procedure Rating: Moderate
+

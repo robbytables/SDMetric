@@ -1,0 +1,116 @@
+Aug 12, 2011 3:27:59 PM | Subject: null | Module: null
+
+Time = 1314040866082
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1314040867784
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1314040870130
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1314040874553
+Code = 110
+Event = Steam dump valve Loop 4 set to OPEN
+
+Time = 1314040876109
+Code = 111
+Event = Steam dump valve Loop 4 set to PRESSURE
+
+Time = 1314040877752
+Code = 112
+Event = Steam dump valve Loop 4 set to CLOSED
+
+Time = 1314040881274
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1314040887244
+Code = 64
+Event = Turned off reactor coolant pump Loop 4
+
+Time = 1314040890646
+Code = 37
+Event = Verified power output in Loop 4
+
+Time = 1314040895165
+Code = 42
+Event = Verified turbine steam pressure in Loop 4
+
+Time = 1314040901193
+Code = 45
+Event = Verified SG temperature in Loop 4
+
+Time = 1314040905921
+Code = 43
+Event = Verified SG pressure in Loop 4
+
+Time = 1314040919646
+Code = 86
+Event = Closed steamline valve Loop 4
+
+Time = 1314040926016
+Code = 74
+Event = Turned off secondary coolant pump Loop 4
+
+Time = 1314040936634
+Code = 98
+Event = Turned off turbine controls Loop 4
+
+Time = 1314040945976
+Code = 143
+Event = ChatBox interaction: RO: reactor maintenance
+
+Time = 1314040955000
+Code = 145
+Event = ChatBox response: RM: Reactor Maintenance here, what's the problem?
+
+Time = 1314040977915
+Code = 143
+Event = ChatBox interaction: RO: aop-6
+
+Time = 1314040987924
+Code = 146
+Event = ChatBox response: RM: Got it, we're on our way. Some of your controls might be disabled in the meanwhile. Just keep an eye on the monitors.
+
+Time = 1314041107930
+Code = 147
+Event = ChatBox response: RM: I think we fixed it. You should see something soon.
+
+Time = 1314041108460
+Code = 180
+Event = ChatBox response: RM: Alright, that should do it. Go ahead and restart that loop.
+
+Time = 1314041139568
+Code = 64
+Event = Turned on reactor coolant pump Loop 4
+
+Time = 1314041142118
+Code = 87
+Event = Opened steamline valve Loop 4
+
+Time = 1314041149205
+Code = 75
+Event = Turned on secondary coolant pump Loop 4
+
+Time = 1314041150238
+Code = 99
+Event = Turned on turbine controls Loop 4
+
+Time = 1314041157879
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1314041157884
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 29
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Very Clear
+

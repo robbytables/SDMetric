@@ -1,0 +1,152 @@
+Aug 16, 2011 11:08:24 AM | Subject: null | Module: null
+
+Time = 1313507329828
+Code = 245
+Event = Fixed Rods
+
+Time = 1313507339625
+Code = 245
+Event = Fixed SI Trains
+
+Time = 1313507350765
+Code = 65
+Event = Turned off reactor coolant pump Loop 1
+
+Time = 1313507365296
+Code = 16
+Event = Verified SG pressure in Loop 1
+
+Time = 1313507369515
+Code = 18
+Event = Verified SG temperature in Loop 1
+
+Time = 1313507371500
+Code = 15
+Event = Verified turbine steam pressure in Loop 1
+
+Time = 1313507373250
+Code = 10
+Event = Verified power output in Loop 1
+
+Time = 1313507401328
+Code = 175
+Event = Goal 1 (SG Temp) for T-2 has been achieved.
+
+Time = 1313507411687
+Code = 79
+Event = Turned on SI pump A
+
+Time = 1313507413515
+Code = 77
+Event = Turned on SI pump B
+
+Time = 1313507420375
+Code = 46
+Event = Verified reactor temperature in Reactor
+
+Time = 1313507423234
+Code = 47
+Event = Verified RCS temperature in Reactor
+
+Time = 1313507425343
+Code = 48
+Event = Verified RCS pressure in Reactor
+
+Time = 1313507430390
+Code = 49
+Event = Verified coolant level in Reactor
+
+Time = 1313507434203
+Code = 4
+Event = Verified A3
+
+Time = 1313507448546
+Code = 176
+Event = Goal 2 (RC Level) for T-2 has been achieved.
+
+Time = 1313507455140
+Code = 78
+Event = Turned off SI pump A
+
+Time = 1313507456218
+Code = 76
+Event = Turned off SI pump B
+
+Time = 1313507459078
+Code = 66
+Event = Turned on reactor coolant pump Loop 1
+
+Time = 1313507473390
+Code = 68
+Event = Turned off secondary coolant pump Loop 2
+
+Time = 1313507493468
+Code = 22
+Event = Verified coolant temperature in Loop 2
+
+Time = 1313507497343
+Code = 24
+Event = Verified turbine steam pressure in Loop 2
+
+Time = 1313507501500
+Code = 27
+Event = Verified SG temperature in Loop 2
+
+Time = 1313507507046
+Code = 26
+Event = Verified SG coolant level in Loop 2
+
+Time = 1313507592000
+Code = 177
+Event = Goal 3 (Turbine Stea Level) for T-2 has been achieved.
+
+Time = 1313507601781
+Code = 69
+Event = Turned on secondary coolant pump Loop 2
+
+Time = 1313507610765
+Code = 107
+Event = Steam dump valve Loop 3 set to OPEN
+
+Time = 1313507617671
+Code = 34
+Event = Verified SG pressure in Loop 3
+
+Time = 1313507620171
+Code = 36
+Event = Verified SG temperature in Loop 3
+
+Time = 1313507625765
+Code = 33
+Event = Verified turbine steam pressure in Loop 3
+
+Time = 1313507627234
+Code = 28
+Event = Verified power output in Loop 3
+
+Time = 1313507650250
+Code = 178
+Event = Goal 4 (SG Pressure) for T-2 has been achieved.
+
+Time = 1313507652765
+Code = 108
+Event = Steam dump valve Loop 3 set to PRESSURE
+
+Time = 1313507653250
+Code = 109
+Event = Steam dump valve Loop 3 set to CLOSED
+
+Time = 1313507668593
+Code = 143
+Event = ChatBox interaction: RO: HALclose2001
+
+Time = 1313507668593
+Code = 157
+Event = Module ended - HALclose2001
+
+Final Power: 34
+
+Difficulty Rating: Not difficult at all
+
+Procedure Rating: Very Clear
+
