@@ -1,0 +1,23 @@
+SDMetric
+Written by Robby Grodin (grodin.robby@gmail.com)
+For Alex Stimpson
+MIT Humans And Automation Lab
+2011
+
+TO LAUNCH: java -jar SDMetric.jar OR double-click the SDMetric.jar file.
+
+SDMetric.jar :MUST: be launched from the directory it is currently in, that is, the same directory as the resource files.
+
+The files included in the package are user generated sample experiment data and were NOT taken from subject trials. They are present as sample data to present the capabilities and performance of the SDMetric application.
+
+ABOUT:
+
+~ A procedural adherence standard deviation calculator and graphing interface~
+
+The Standard Deviation Metric Calculator and Graphic User Interface was built as a tool for measuring procedural adherance amongst test subjects. Conceived as part of Alexander Stimpson’s graduate research at the MIT Humans and Computation lab, I built the interface independently over the summer of 2011. The first step was to attach a logging class to the testing interface, which for our experiments was an NRC compliant nuclear reactor master control panel. A text file recording every action performed and information relevant to the experiment was saved at the conclusion of each module. The log files are then read into the calculator along with a configuration file that outlines the ideal procedure and event groupings and the calculations are run.
+	The graphic interface was built in Swing, and is dynamically sized to allow for any number of subjects. The information is displayed as such:
+
+1.	Top Left Quadrant: Displays subject procedure statistics in relation to the ideal procedure. Currently shows number of steps missing from the subjects’ performance, and the number of steps performed that were not part of the ideal procedure.
+2.	Top Right Quadrant: The state diagram plots the procedures performed by the test subjects. Each discrete value on the Y-axis refers to the possible states, and the X-axis represents the progression over time.
+3.	Bottom Left Quadrant: The final score for each user is shown here, color coded to show the range of desirable/undesirable scores (unique to each set of input data).
+4.	Bottom Right Quadrant: The Y-axis refers to the divergence score, and the X-axis refers to the index of the sequence of steps in a given subject’s procedure.
